@@ -17,7 +17,7 @@
 
 ## 🧐 About Me
 
-I’m a Full-Stack Software Engineer based in India, currently working at **Goldman Sachs** in the financial technology domain, where I spend my days ensuring financial systems move faster than a trader on a Monday morning. I specialize in turning 8-second data delays into 1.5-second 'blink-and-you-miss-it' experiences because in FinTech, nobody has time for a loading spinner. I translate complex business 'wishlists' into clean, scalable Java and React code that runs with zero-downtime.
+I’m a Full-Stack Software Engineer based in India, currently working at **Goldman Sachs** in the financial technology domain, where I spend my days ensuring financial systems move faster than a trader on a Monday morning. I specialize in turning 8-second data delays into 1.5-second 'blink-and-you-miss-it' experiences, 'cause in FinTech, nobody has time for a loading spinner. I translate complex business 'wishlists' into clean, scalable Java and React code that runs with zero-downtime.
 
 ---
 
@@ -71,6 +71,6 @@ Serenity BDD, JBehave, JMeter (Performance Testing), Selenium, Katalon Studio
 
 ## 📢 About This GitHub
 
-Think of this profile as a 'Greatest Hits' album, not a code landfill. I’ve intentionally curated these repos to emphasize quality and real-world impact over 'Hello World' volume—because after shipping 200+ production enhancements, I’ve learned that quality is the only metric that scales.
+Think of this profile as a 'Greatest Hits' album, not a code landfill. I’ve intentionally curated these repos to emphasize quality and real-world impact over 'Hello World' volume because after shipping 200+ production enhancements, I’ve learned that quality is the only metric that scales.
 
 <sub>Note: Some earlier projects were hosted on a previous GitHub account that is no longer accessible: [github.com/harsha14gupta](https://github.com/harsha14gupta).</sub>
