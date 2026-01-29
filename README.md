@@ -34,7 +34,7 @@ I’m a Full-Stack Software Engineer based in India, currently working at **Gold
 
 ---
 
-## 🔍 Current Areas of Exploration
+## 💡Current Areas of Exploration
 
 - **System Design**  
   Advancing expertise in foundational and advanced architectural patterns for large-scale systems.
