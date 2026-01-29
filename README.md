@@ -7,7 +7,7 @@
 ## 👋 Hello world! 
 💬 Ask me about anything and everything!
 
-📫 How to reach me: Drop me a email at [harsha14gupta@gmail.com](mailto:harsha14gupta@gmail.com)
+📫 How to reach me: Drop me a email at [harsha14gupta@gmail.com](mailto:harsha14gupta@gmail.com) or connect on [LinkedIn](www.linkedin.com/in/gupta-harsha)
 
 ⚡ Fun fact: I love meeting new people and taking solo/group trips!
 
