@@ -17,7 +17,7 @@
 
 ## 🧐 About Me
 
-I’m a Full-Stack Software Engineer based in India, currently working at **Goldman Sachs** in the financial technology domain, where I spend my days ensuring financial systems move faster than a trader on a Monday morning. I specialize in turning 8-second data delays into 1.5-second 'blink-and-you-miss-it' experiences—because in FinTech, nobody has time for a loading spinner. I translate complex business 'wishlists' into clean, scalable Java and React code that runs with zero-downtime.
+I’m a Full-Stack Software Engineer based in India, currently working at **Goldman Sachs** in the financial technology domain, where I spend my days ensuring financial systems move faster than a trader on a Monday morning. I specialize in turning 8-second data delays into 1.5-second 'blink-and-you-miss-it' experiences because in FinTech, nobody has time for a loading spinner. I translate complex business 'wishlists' into clean, scalable Java and React code that runs with zero-downtime.
 
 ---
 
